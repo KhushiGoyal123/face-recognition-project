@@ -39,6 +39,8 @@
 
 <b>Optional -</b> <i>You can also create a new account either by clicking the "create new user" in `login_student.py` or `register.py`</i>
 
+- To check, if attendance is recorded or not, check `attendance.csv` file
+
 <hr/>
 
 
